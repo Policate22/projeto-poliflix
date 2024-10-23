@@ -1,0 +1,1 @@
+SELECT * FROM filmes WHERE filmes LIKE 'G%';
